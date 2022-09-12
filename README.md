@@ -5,4 +5,4 @@
 Compared with [1.6 billion domain names](https://github.com/tb0hdan/domains) and every possible combination of /[A-Za-z0-9]+/.
 
 ## STATS
-#### Recovered: 1,466,920 / 2,340,530 (0.63%)
+#### Recovered: 1,466,920 / 2,340,530 (63%) names
